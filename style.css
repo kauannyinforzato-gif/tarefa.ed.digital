@@ -1,12 +1,12 @@
 body {
-    background-color: #eef4e8;
+    background-color: #f4efe6;
     color: #263d2b;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #2f6b3c;
+    background-color: #315c4a;
     color: white;
     text-align: center;
     padding: 30px;
@@ -17,12 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #2f6b3c;
-}
-
-p {
-    font-size: 18px;
-    line-height: 1.6;
+    color: #8a4f38;
 }
 
 nav {
@@ -32,7 +27,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color: #4f8a5b;
+    background-color: #b86f3c;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -40,7 +35,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #79a86b;
+    background-color: #d69a62;
 }
 
 main {
@@ -65,21 +60,22 @@ img {
 
 figcaption {
     text-align: center;
+    text-align: center;
+    color: #666666;
     font-size: 14px;
-    color: #5c6b5e;
     margin-top: 8px;
 }
 
 .card {
-    background-color: #dcebd5;
+    background-color: #ead8c5;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #2f6b3c;
+    border-left: 6px solid #b86f3c;
     border-radius: 10px;
 }
 
 .card h3 {
-    margin-top: 0;
+    color: #315c4a;
 }
 
 footer {
