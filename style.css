@@ -87,7 +87,7 @@ footer {
 }
 
 button {
-     background-color: #315c4a;
+     background-color: #1a4432;
      color: white
      border-none;
      padding: 10px 15px;
@@ -95,7 +95,7 @@ button {
      cursor: pointer;
 }
 button:hover {
-    background-color: #263d2b;
+    background-color: #488054;
      
 }
 
